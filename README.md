@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dr Stephen Achugwo
-- 👀 I’m interested in programming, coding and designing
+- 👋 Hi, I’m Dr Stephen Achugwo, a web developer based in Nigeria
+- 👀 I’m interested in JavaScript and TypeScript - programming, coding and designing
 - 🌱 I’m currently improving my frontend skills and learning some backend 
-- 💞️ I’m looking to collaborate on react, next js and nodr js
+- 💞️ I’m looking to collaborate on react, next js and node js
 - 📫 How to reach me ... email: dr_stephen@aol.com or info@art1app.com phone: +2348168536955
 
 <!---
