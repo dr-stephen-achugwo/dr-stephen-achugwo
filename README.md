@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr Stephen Achugwo, a web developer based in Nigeria
+- 👋 Hi, I’m Stephen Achugwo, a web developer based in Nigeria
 - 👀 I’m interested in Nextjs, React, JavaScript, TypeScript, programming and coding
 - 🌱 I’m always learning, coding and improving my app dev skills in both frontend andm backend 
 - 💞️ I’m looking to collaborate on Nextjs, React, JavaScript, TypeScript
