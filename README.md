@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephen Achugwo. I'm a Full-Stack web developer.
+- 👋 Hi, I’m Stephen Achugwo. I'm a Full-Stack Developer.
 - 👀 My tech stack includes HTML, CSS, JavaScript, React, TypeScript, NextJS, NodeJS, Express, SQL, MQL, MySQL Database, MongoDB, PHP, and others.
 - 🌱 I love researching, learning and improving my app development skills in both frontend and backend, always programming and coding.  
 - 💞️ I’m seeking a job in Website Projects, Mobile Applications, MERN or Full-Stack Development. 
